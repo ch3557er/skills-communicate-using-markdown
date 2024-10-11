@@ -4,3 +4,6 @@
 
 ###### Este es un encabezado `<h6>`, que es el más pequeño
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "¡Hola, mundo!";
+```
